@@ -1,0 +1,18 @@
+body{
+	background: #bbb;
+}
+
+#player {
+	width:10px;
+	height:10px;
+	background: green;
+	position: absolute;
+}
+
+
+.background{
+	width: 800px;
+	height: 600px;
+	background: white;
+}
+
