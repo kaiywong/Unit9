@@ -6,8 +6,11 @@ Simple js canvas with basic collision detection.
 2. Open the index.html file
 
 w = jetPack
+
 a = left
+
 d = right
+
 spacebar = shoot
 
 TODO: 
